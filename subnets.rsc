@@ -1,4 +1,5 @@
 /ip firewall address-list
+add address=13.107.42.14/32 list=rkn
 add address=1.11.3.201/32 list=rkn
 add address=1.32.194.0/24 list=rkn
 add address=1.85.189.35/32 list=rkn
