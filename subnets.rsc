@@ -5,3 +5,5 @@ add address=13.107.42.14/32 list=rkn
 add address=40.90.65.41/32 list=rkn
 add address=13.107.42.14/32 list=rkn
 add address=81.17.19.227/32 list=rkn
+add address=172.67.208.239/32 list=rkn
+add address=104.21.61.101/32 list=rkn
