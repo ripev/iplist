@@ -2,6 +2,7 @@
 add address=104.21.56.234/32 list=rkn comment=rutracker.org
 add address=172.67.137.176/32 list=rkn comment=rutracker.org
 add address=179.43.150.83/32 list=rkn comment=flibusta.is
+add address=108.177.14.0/24 list=rkn comment=youtube.com-custom
 add address=34.1.208.0/20 list=rkn comment=google_cloud_ips
 add address=34.35.0.0/16 list=rkn comment=google_cloud_ips
 add address=34.152.86.0/23 list=rkn comment=google_cloud_ips
