@@ -1,5 +1,5 @@
 /ip firewall address-list
-add address=179.43.150.83 comment=flibusta.is list=rkn
+add address=179.43.128.0/18 comment=flibusta.is list=rkn
 add address=104.16.0.0/12 comment=cloudflare list=rkn
 add address=172.64.0.0/13 comment=cloudflare list=rkn
 add address=185.76.9.0/24 comment="CDN Stokholm" list=rkn
