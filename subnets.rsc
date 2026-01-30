@@ -15,3 +15,5 @@ add address=173.194.0.0/16 comment="google youtube" list=rkn
 add address=172.217.0.0/16 comment="google youtube" list=rkn
 add address=157.240.0.0/16 comment="fb instagram" list=rkn
 add address=163.0.0.0/8 comment="AU instagram" list=rkn
+add address=31.13.64.0/18 comment="fb whatsapp" list=rkn
+add address=57.0.0.0/8 comment="fb whatsapp" list=rkn
